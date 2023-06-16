@@ -1,0 +1,4 @@
+amount,from_currency,to_currency,expected_amount,expected_currency
+100,USD,UAH,2700,UAH
+500,USD,UAH,13500,UAH
+200,UAH,USD,7.41,USD
